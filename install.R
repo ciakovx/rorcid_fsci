@@ -1,0 +1,6 @@
+install.packages('tidyr')
+install.packages('purrr')
+install.packages('lubridate')
+install.packages('rorcid')
+install.packages('anytime')
+install.packages('janitor')
